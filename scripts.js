@@ -12,6 +12,6 @@ $(function(){
   })
 
   if (navigator.userAgent.match(/OS X.*Safari/) && ! navigator.userAgent.match(/Chrome/)) {
-      document.getElementById('j-banner-header').className += 'safari';
+    document.getElementById('j-logo').className += ' safari';
   }
 });

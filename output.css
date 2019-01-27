@@ -256,6 +256,8 @@ h6 {
     .fluid-nav .logo {
       color: #000062;
       grid-column: 2 / span 1; }
+    .fluid-nav .safari {
+      font-size: 1.8rem; }
     .fluid-nav nav {
       all: unset;
       grid-column: 3/4;

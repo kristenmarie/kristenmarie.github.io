@@ -118,6 +118,9 @@
       color: $royal-blue;
       grid-column: 2 / span 1;
     }
+    .safari {
+      font-size: 1.8rem;
+    }
     nav {
       //Takes off all styles that were set in mobile version.
       all: unset;
